@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725653809699",
+    "project_id": "campusellv2",
+    "storage_bucket": "campusellv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725653809699:android:3a218f9470ad970a915f96",
+        "android_client_info": {
+          "package_name": "com.example.campusell_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725653809699-pm397qn721budjiivnm1fh5ev10pmovo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWFRQ-AzO6Xvb4gO3IGrunO9C7yyFxZhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725653809699-pm397qn721budjiivnm1fh5ev10pmovo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
